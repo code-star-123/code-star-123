@@ -5,4 +5,4 @@ Hello, guys. As a programmer I'm always proud of my ability. I'm highly motivate
 
 My portfolio: https://code-star.netlify.app/
 </br>
-My Resume: https://drive.google.com/file/d/1fjMPoosBxVsXhpDkr3vlSoIDtNqO5YIB/
+My Resume: https://drive.google.com/file/d/1sGwy9At0cHhSwVODl2RssGWD0SQQbvpX/
